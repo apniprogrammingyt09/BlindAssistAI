@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Blind Assist AI",
   description: "AI-powered assistant for visually impaired individuals",
-    generator: 'v0.dev'
+    generator: 'Team krish'
 }
 
 export default function RootLayout({
